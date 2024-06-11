@@ -19,3 +19,4 @@ Khipro is Bengali keyboard concept that aims to provide the fastest typing exper
   <b>লাল:</b> সায়ান বা গ্রুপ নির্বাচন কি-গুলোর কোনোটাতে চাপা হলে সেটা রঙ বদলে লাল হয়ে যাবে এবং নির্দেশ করবে যে সেই গ্রুপটি সিলেক্ট করা হয়েছে।
 </p> <hr/>
 <h1> Description in English </h1>
+to be added...
