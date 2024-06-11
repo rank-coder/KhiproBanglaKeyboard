@@ -1,2 +1,19 @@
 # KhiproBanglaKeyboard
-Khipro is Bengali keyboard concept that aims to provide the fastest typing experience for Bengali as humanly possible.
+Khipro is Bengali keyboard concept that aims to provide the fastest typing experience for Bengali as humanly possible.</br>
+<b>For English please scroll down.</b></br>
+### ছবি ১ </br>
+![ছবি](https://github.com/rank-coder/KhiproBanglaKeyboard/assets/54497225/3d29037e-b29a-476d-827b-579048c72880)
+</br>
+এরকম কিবোর্ড শুধু টাচস্ক্রিনের জন্য উপযোগী।
+<p>
+ধূসর রঙের কি-গুলো একটা ক্যারেকটার দেখাতে পারে। তবে শিফট চাপলে ভিন্ন আরেকটা ক্যারেকটারও দেখাতে পারবে।
+</p>
+<p>
+  সায়ান বা হালকা নীলাভ সবুজ কি-গুলো কোনো একটা নির্দিষ্ট ক্যারেকটারের জন্য নয়, বরং একাধিক ক্যারেকটারের একটা গ্রুপের জন্য। কোনো সায়ান কি-তে চাপলে সেটা হালকা নীল রঙের কি-গুলোতে ক্যারেকটার গ্রুপ পরিবর্তন করে দেবে।
+</p>
+<p>
+  হালকা নীল রঙের কি-গুলো একটা ক্যারেকটারই ধারণ করে কিন্তু সেই ক্যারেকটারগুলো কোন গ্রুপের হবে তা নির্ধারণ করবে সায়ান কি-গুলো। সায়ান কি-গুলো থেকে কোনো গ্রুপ সিলেক্ট করার সাথে সাথে হালকা নীল কি-গুলোতে গ্রুপ পরিবর্তন হয়ে যাবে।
+</p>
+<p>
+  লাল: সায়ান বা গ্রুপ নির্বাচন কি-গুলোর কোনোটাতে চাপা হলে সেটা রঙ বদলে লাল হয়ে যাবে এবং নির্দেশ করবে যে সেই গ্রুপটি সিলেক্ট করা হয়েছে।
+</p>
